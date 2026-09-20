@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://edupath-ai-65fj.onrender.com";
 
 const KNOWN_SKILLS = [
   "Python",

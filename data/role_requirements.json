@@ -1,0 +1,67 @@
+{
+  "Data Scientist": {
+    "required_skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Scikit-learn",
+      "Data Visualization",
+      "Feature Engineering",
+      "Deep Learning",
+      "NLP"
+    ]
+  },
+  "Data Analyst": {
+    "required_skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Statistics",
+      "Data Cleaning",
+      "EDA",
+      "Data Visualization",
+      "DAX"
+    ]
+  },
+  "ML Engineer": {
+    "required_skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "Git"
+    ]
+  },
+  "Frontend Developer": {
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git",
+      "GitHub"
+    ]
+  },
+  "Backend Developer": {
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "GitHub",
+      "REST API",
+      "FastAPI",
+      "Docker"
+    ]
+  }
+}
